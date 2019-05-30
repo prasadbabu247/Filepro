@@ -1,0 +1,7 @@
+Django	2.2.1	2.2.1
+Pillow	6.0.0	6.0.0
+django-crispy-forms	1.7.2	1.7.2
+pip	10.0.1	19.1.1
+pytz	2019.1	2019.1
+setuptools	39.1.0	41.0.1
+sqlparse	0.3.0	0.3.0
